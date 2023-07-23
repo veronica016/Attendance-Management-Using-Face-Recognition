@@ -28,4 +28,3 @@
 - If you think it will recognise person just like humans,than leave it ,its not possible.
 - Noisy image can reduce your accuracy so quality of images matter.
 
-## Just follow☝️ me and Star⭐ my repository 
